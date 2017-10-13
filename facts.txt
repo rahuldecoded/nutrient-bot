@@ -21,5 +21,9 @@
     "Orange": {
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
+    },
+    "Pineapple": {
+    	"Hawaii produces approximately one third of all the pineapples in the world",
+	"Pineapples are perish quickly once fully ripened, only staying fresh for up to a week if refrigerated and two days under regular conditions."
     }
 }
