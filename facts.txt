@@ -27,5 +27,5 @@
 	"The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
 	"Jam is known as 'jelly' in the United States.",
 	"Jam is made by boiling cropped fruit or vegetable pulb with sugar and water."
-    },
+    }
 }
