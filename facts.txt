@@ -15,5 +15,7 @@
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
       "The largest chocolate bar ever weighed just over 12,770 pounds.",
       "For several centuries in pre-modern Latin America, cacao beans were considered valuable enough to use as currency."
+      "Dark chocolate has large quantities of flavonoids called catechins, which may benefit heart health."
+      "The fat in chocolate is from cocoa butter, and is comprised of about 2/3 saturated fats and 1/3 monounsaturated fat."
     },
 }
