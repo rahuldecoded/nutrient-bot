@@ -7,4 +7,9 @@
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
 	"Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
     },
+    "Milk": {
+        "Milk is a rich source of protein. It has approximately 1 g of protein in each fluid ounce (30.5 g), or 7.7 g in each cup (244 g).",
+		"Whole milk, straight from the cow, is around 4% fat. Milk fat is one of the most complex of all natural fats, containing about 400 different types of fatty acids.",
+	"Milk contains several important nutrients; a glass of milk (200ml) will give you calcium, protein, iodine, potassium, phosphorus and vitamins B2 and B12."
+    },
 }
