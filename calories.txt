@@ -1,0 +1,16 @@
+{
+	"Uncooked Rice": {
+		"Calories": "372",
+		"Fat": "2g",
+		"Carbs": "77g",
+		"Protien": "9g",
+		"Sugar": "0 g"
+	},
+	"Apple": {
+		"Calories": "52",
+		"Fat": "0g",
+		"Carbs": "14g",
+		"Protien": "0g",
+		"Sugar": "10 g"
+	}, 
+}
