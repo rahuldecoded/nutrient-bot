@@ -10,5 +10,12 @@
     "Egg": {
     	"Brown Eggs Are More Expensive Than White, but It’s Not Because They’re Healthier.",
 	"The color of an egg yolk is determined by a hen’s diet."
+    "Milk": {
+        "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
+        "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
+    },
+    "Orange": {
+    	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
+    	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     }
 }
