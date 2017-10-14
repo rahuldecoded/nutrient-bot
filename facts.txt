@@ -45,7 +45,9 @@
     "Green Tea": {
         "A cup of green tea typically contains 25-30mg caffeine.",
         "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
-        "Green tea contains the amino acid, Theanine, which is known to help combat depression."
+        "Green tea contains the amino acid, Theanine, which is known to help combat depression.",
+        "Green tea boosts immunity, Research shows that people who regularly drink green tea do not fall victim to common bacterial and viral infections as easily as those who do not add green tea to their diet.",
+        "Green tea prevents cancer, Apart from causing premature aging, free radicals are also responsible for causing certain types of cancer. The Catechins present in green tea neutralize these free radicals, prevent formation of carcinogens like nitrosamines and reduce the risk of cancer for people who regularly consume green tea. "
     },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
