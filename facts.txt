@@ -22,4 +22,10 @@
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     }
+    "Carrot": {
+        "Carrots have seeds. You harvest the seeds from the tiny white flowers that grow out of the ground.",
+        "Carrots are a good source of fiber, which is good for the health of your digestive system.",
+        "Carrots have a higher natural sugar content than all other vegetables with the exception of beets.",
+        "We think of carrots as orange, but they can also be white, yellow, red, and purple."
+    }
 }
