@@ -73,7 +73,9 @@
     },
     "Grapes": {
         "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
-        "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green."
+        "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green.",
+        "It takes about 2.5 pounds of grapes to make one bottle of wine.",
+        "Spanish explorers introduced the fruit to America about 300 years ago."
     },
     "Green Tea": {
         "A cup of green tea typically contains 25-30mg caffeine.",
