@@ -141,4 +141,8 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+	"Egg": {
+		"The color of an egg yolk is determined by a hen’s diet. If you crack open your egg to discover a dark yellow yolk, the hen was probably fed green vegetables. A medium-yellow yolk would indicate a diet of corn and alfalfa while a light-yellow yolk could be the result of eating wheat and barley."
+		"Harriet the hen laid the world’s largest egg in 2010, measuring a hefty 9.1 inches in diameter."
+	}
 }
