@@ -19,8 +19,8 @@
         "Eating carrots can improve eye health",
         "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body.",
         "Just one medium carrot or a handful of baby carrots counts as one serving of your daily veggies.",
-        "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot."
-	"Carrots are a good source of Vitamin K, which helps your blood coagulate faster."
+        "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot.",
+	"Carrots are a good source of Vitamin K, which helps your blood coagulate faster.",
 	"Carrots contain Vitamin A, which helps contribute to eye health. But the idea that carrots help improve your night-vision is a myth."
     },
     "Chocolate": {
@@ -44,5 +44,10 @@
     "Chicken": {
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
+    },
+    "Green Tea": {
+        "A cup of green tea typically contains 25-30mg caffeine.",
+        "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
+        "Green tea contains the amino acid, Theanine, which is known to help combat depression."
     },
 }
