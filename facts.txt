@@ -125,7 +125,10 @@
         "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
         "Low in calories and high in vitamins C, B6, K, fiber, folic acid, potassium and amino acids.",
         "Vitamin C present in strawberry boosts the immune system and helping in curing common cough and cold.",
-        "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout."
+        "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout.",
+        "Strawberries are the first fruit to ripen each spring.",
+        "There are three different types of strawberries: June-bearing, overbearing and day neutral.",
+        "Strawberries are believed to help reduce the risk of heart disease and certain cancers."
      },
      "White Bread": {
         "White bread accounts for 76% of the bread sold in the UK.",
