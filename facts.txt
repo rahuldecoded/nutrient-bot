@@ -55,4 +55,9 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+
+    "Strawberry": {
+        "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
+        "Low in calories and high in vitamins C, B6, K, fiber, folic acid, potassium and amino acids."
+     },
 }
