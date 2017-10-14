@@ -57,6 +57,9 @@
     },
     "Pineapple" : {
         "Pineapples are rich source of soluble and insoluble dietary fiber like pectin",
-        "Pineapples can help reduce the risk of macular degeneration, a disease that affects the eyes as people age, due in part to its high amount of vitamin C and the antioxidants it contains"
+        "Pineapples can help reduce the risk of macular degeneration, a disease that affects the eyes as people age, due in part to its high amount of vitamin C and the antioxidants it contains",
+        "Pineapple has been known to contain bromelain, which could be used as a meat tenderizer.",
+        "One cup of pineapple has 70 to 85 calories.",
+        "Raw pineapple is a great source for manganese."
     },
 }
