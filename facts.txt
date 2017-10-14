@@ -11,6 +11,11 @@
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
         "Beer is the third most popular beverage after water and tea",
     },
+    "Beet" : {
+	"The biggest beet in the world was grown by a Dutchman. It weighed over 156 pounds.",
+	"The beet and its greens are both an excellent source of folate, vitamin A and K, and a very good source of manganese, copper, and potassium.",
+	"Beets have also been shown to support the detoxification process in the body. The betalin compound found in beets, which gives them their red color, helps to capture troublesome toxins and flush them out of the system via the urinary tract."
+	},
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
         "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
