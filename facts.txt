@@ -55,4 +55,9 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+    "Grapes": {
+        "A serving of a cup and a half of grapes contains just 90 calories, no fat, and virtually no sodium",
+        "Grapes of all colors are a natural source of antioxidants and other polyphenols, and offer a variety of additional health benefits",
+	"A serving of grapes contain 24 grams of healthy carbs and 1 gram of fiber"
+    },
 }
