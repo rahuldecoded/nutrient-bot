@@ -55,4 +55,8 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+    "Jam": {
+    	"Jam does not have fat and cholesterol which helps to gain a healthy weight.",
+	"The pectin helps to lower the chances of cancer and promotes the health of skin, hair, bones and finger nails."
+    },
 }
