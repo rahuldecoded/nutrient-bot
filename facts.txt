@@ -68,4 +68,8 @@
         "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
         "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green."
     },
+    "Strawberry": {
+        "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
+        "Low in calories and high in vitamins C, B6, K, fiber, folic acid, potassium and amino acids."
+     },
 }
