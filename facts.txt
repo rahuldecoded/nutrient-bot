@@ -55,4 +55,8 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+    "Pineapple" : {
+        "Pineapples are rich source of soluble and insoluble dietary fiber like pectin",
+        "Pineapples can help reduce the risk of macular degeneration, a disease that affects the eyes as people age, due in part to its high amount of vitamin C and the antioxidants it contains"
+    },
 }
