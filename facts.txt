@@ -1,5 +1,8 @@
 {
-,
+    "Apple": {
+        "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
+	"Apple trees take four to five years to produce their first fruit."
+    },
     "Banana": {
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
 	"Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
@@ -18,7 +21,11 @@
     "Orange": {
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
-    },    "Tea": {
+    },
+    "Chicken": {
+        "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
+        "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
+    },
+"Tea": {
         "It takes around 2,000 tiny leaves to make just one pound of finished tea.",
-	"Tea is naturally low in caffeine. A cup of Black Tea, for example, contains about 40 milligrams of caffeine."    }
-}
+	"Tea is naturally low in caffeine. A cup of Black Tea, for example, contains about 40 milligrams of caffeine."},}
