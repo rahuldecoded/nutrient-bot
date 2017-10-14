@@ -103,6 +103,10 @@
         "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
         "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
     },
+    "Pineapple": {
+    "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
+    "Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals, and vitamins that are essential for optimum health."
+    },
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
         "Peanuts are an exceptionally good source of protein.",
