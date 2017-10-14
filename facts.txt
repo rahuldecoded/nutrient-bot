@@ -54,4 +54,8 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+     "Grapes": {
+        "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
+        "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green."
+    },
 }
