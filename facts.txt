@@ -41,4 +41,6 @@
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
     },
-}
+"Tea": {
+        "It takes around 2,000 tiny leaves to make just one pound of finished tea.",
+	"Tea is naturally low in caffeine. A cup of Black Tea, for example, contains about 40 milligrams of caffeine."},}
