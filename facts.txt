@@ -32,4 +32,10 @@
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
     },
+	"Grapes":{
+		"There are about 8000 grape varieties that originate from about 60 species, while only about 8 species are native to the North America, Spanish explorers introduced grapes about 300 years ago.",
+		"It takes about 2.5 pounds of grapes to make one bottle of wine.",
+		"Drying grapes produces raisins, usually drying happenes natually with exposure to sunlight"
+		
+	},
 }
