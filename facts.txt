@@ -95,8 +95,10 @@
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
-	"Suppresses hunger for weight loss",
-	"Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
+	    "Suppresses hunger for weight loss",
+	    "Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease.",
+        "There’s a jar of peanut butter in 75 percent of the homes in America.",
+        "It might be cancer-fighting. Girls between the age of 9 and 15 who regularly ate peanut butter were 39 percent less likely to develop benign breast disease by 30."
     },
     "Red Tea": {
         "Red Tea is completely caffeine free.",
