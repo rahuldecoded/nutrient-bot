@@ -141,4 +141,7 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
-}
+	"chocolate"{
+		"Dogs can die if they consume chocolate. Never let your dog eat chocolate."
+		"If chocolate contains more than 80%, it is considdered to by healty (about 50g/day)"
+	},
