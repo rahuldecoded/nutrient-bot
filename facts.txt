@@ -141,4 +141,8 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+	"Watermelon":{
+		"It turns out that if you use a giant slingshot to hurl a watermelon right into your own face, you survive."
+		"The amount of potassium and magnesium present in watermelons is very beneficial in terms of bringing down blood pressure"
+	}
 }
