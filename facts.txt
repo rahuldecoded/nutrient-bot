@@ -16,7 +16,7 @@
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     }
     "Chicken": {
-        "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
+        "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
-    }
+    },
 }
