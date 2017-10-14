@@ -45,4 +45,8 @@
 	"While beer makes that unaesthetic beer belly, wine does not affect your waistline at all.",
 	"Red wines are known to contain many beneficial antioxidants such as polyphenol and resveratrol that have cardio-protective effects and anti-cancer properties. Grape skin is especially rich in antioxidants. "
     }
+    "Green Tea": {
+	"The health benefits of green tea are primarily due to its antioxidant properties that come from its caffeine, Catechin Polyphenols and Theonine content.",
+	"The free radicals created in the body are responsible for corroding the body in various ways, one of which we see as the signs of aging and the related symptoms."
+    }
 }
