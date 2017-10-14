@@ -51,4 +51,8 @@
         "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
         "Green tea contains the amino acid, Theanine, which is known to help combat depression."
     },
+    "Almond": {
+        "The bitter taste in Almonds is derived from the 4-9 mg of hydrogen cyanide in each.",
+	"Raw Almonds contain prussic acids, the eating of more than a handful can be lethal. this is why all almonds are dried, roasted and/or pasteurized."
+    },
 }
