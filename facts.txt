@@ -1,4 +1,9 @@
 {
+    "Coriander": {
+        "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
+	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
+	"Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
+    },
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
 	"Apple trees take four to five years to produce their first fruit."
