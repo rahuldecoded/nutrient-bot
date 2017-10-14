@@ -27,8 +27,8 @@
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
       "The largest chocolate bar ever weighed just over 12,770 pounds.",
-      "For several centuries in pre-modern Latin America, cacao beans were considered valuable enough to use as currency."
-      "Dark chocolate has large quantities of flavonoids called catechins, which may benefit heart health."
+      "For several centuries in pre-modern Latin America, cacao beans were considered valuable enough to use as currency.",
+      "Dark chocolate has large quantities of flavonoids called catechins, which may benefit heart health.",
       "The fat in chocolate is from cocoa butter, and is comprised of about 2/3 saturated fats and 1/3 monounsaturated fat."
     },
     "Orange": {
@@ -36,10 +36,10 @@
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     },
     "Wine": {
-        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin."
-        "Wine names usually indicate the location or the grape varieties used."
-        "Wine dilates the small blood vessels and helps to prevent angina and clotting."
-        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
+        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin.",
+        "Wine names usually indicate the location or the grape varieties used.",
+        "Wine dilates the small blood vessels and helps to prevent angina and clotting.",
+        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years.",
         "10,000 varieties of wine grapes exist worldwide."
     },
     "Chicken": {
@@ -55,4 +55,21 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+    "Peanut": {
+        "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
+        "Peanuts are an exceptionally good source of protein.",
+        "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
+        "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
+    },
+    "Grapes": {
+        "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
+        "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
+        "Grapes are a wonderful source of micro-nutrients like copper, iron, and manganese, all of which are important in the formation and strength of the bones.",
+        "Grapes increase the nitric oxide levels in the blood, which prevents blood clots. Therefore, grapes are an effective way to reduce the chances of heart attacks."
+    },
+    "Strawberry": {
+        "Vitamin C present in strawberry boosts the immune system and helping in curing common cough and cold.",
+        "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout.",
+        "Vitamin-C, folate, anthocyanins, quercetin, and kaempferol are just a few of the many flavonoids in strawberries which possess excellent antioxidant and anticarcinogenic properties. Together, they form an excellent line of defense to fight cancer and tumor growth."
+    }
 }
