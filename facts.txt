@@ -25,6 +25,9 @@
     "Wine": {
         "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin."
         "Wine names usually indicate the location or the grape varieties used."
+        "Wine dilates the small blood vessels and helps to prevent angina and clotting."
+        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
+        "10,000 varieties of wine grapes exist worldwide."
     },
     "Chicken": {
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
