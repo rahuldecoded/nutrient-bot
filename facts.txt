@@ -51,6 +51,11 @@
         "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
         "Green tea contains the amino acid, Theanine, which is known to help combat depression."
     },
+     "Red Tea": {
+        "Red Tea is completely caffeine free.",
+        "Red Tea originates from the word /"Rooibos/" meaning /"Red Bush/".",
+        "Red Tea tea is rich in calcium, manganese, and fluoride minerals that assist in maintaining good bone structure and stronger teeth."
+    },
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
