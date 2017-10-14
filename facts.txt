@@ -11,8 +11,8 @@
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
         "Beer is the third most popular beverage after water and tea",
         "Approximately two-thirds of the total caloric value of beer comes from alcohol, rather than sugar which only makes up the remaining one-third of the value.",
-		    "Beer is primarily made from malted barley, grains and hops, and fermented with the help of yeast that break down sugars into ethanol and carbon dioxide.  More sugar results in higher alcohol content after fermentation.",
-		    "Cenosillicaphobia is the fear of an empty beer glass."
+	"Beer is primarily made from malted barley, grains and hops, and fermented with the help of yeast that break down sugars into ethanol and carbon dioxide.  More sugar results in higher alcohol content after fermentation.",
+	"Cenosillicaphobia is the fear of an empty beer glass."
     },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
