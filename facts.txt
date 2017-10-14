@@ -55,4 +55,12 @@
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
     },
+    "Quinoa": {
+    	"Quinoa is one of the best sources of fiber, being 2.8% fiber.", 
+	"Quinoa is rich in proteins and even contains all nine amino acids."
+    },
+    "Macaroni and Cheese": {
+    	"Macaroni and cheese has a serving size of 1 cup, 189 grams.",
+	"Macaroni and cheese contains about 850 grams of sodium which is over 1/3rd of the recommended sodium intake, 2300 grams."
+    },
 }
