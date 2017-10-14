@@ -11,6 +11,14 @@
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
         "Beer is the third most popular beverage after water and tea",
     },
+    "Brown Bread": {
+        "Brown bread is made with significant amounts of whole grain flour, usually wheat,and sometimes dark-colored ingredients such as molasses or coffee.",
+        " One slice of whole wheat bread provides 2 g of fiber, which is 8 percent of the daily recommendation for a 2,000-calorie diet.",
+	"There are 128 calories in 1 slice of Whole Wheat Bread. Calorie breakdown: 17% fat, 74% carbs, 9% protein.",
+	"Whole wheat bread is a low-fat and low-cholesterol option.",
+	"Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
+	" The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
+    },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
         "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
@@ -22,7 +30,6 @@
         "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot.",
         "Carrots are a good source of Vitamin K, which helps your blood coagulate faster.",
         "Carrots contain Vitamin A, which helps contribute to eye health. But the idea that carrots help improve your night-vision is a myth."
-
     },
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
@@ -51,9 +58,20 @@
         "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
         "Green tea contains the amino acid, Theanine, which is known to help combat depression."
     },
+     "Red Tea": {
+        "Red Tea is completely caffeine free.",
+        "Red Tea originates from the word /"Rooibos/" meaning /"Red Bush/".",
+        "Red Tea tea is rich in calcium, manganese, and fluoride minerals that assist in maintaining good bone structure and stronger teeth."
+    },
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
-        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
+        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
+	"Suppresses hunger for weight loss",
+	"Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
+    },
+     "Grapes": {
+        "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
+        "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green."
     },
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
@@ -68,8 +86,9 @@
         "Grapes increase the nitric oxide levels in the blood, which prevents blood clots. Therefore, grapes are an effective way to reduce the chances of heart attacks."
     },
     "Strawberry": {
+        "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
+        "Low in calories and high in vitamins C, B6, K, fiber, folic acid, potassium and amino acids.",
         "Vitamin C present in strawberry boosts the immune system and helping in curing common cough and cold.",
-        "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout.",
-        "Vitamin-C, folate, anthocyanins, quercetin, and kaempferol are just a few of the many flavonoids in strawberries which possess excellent antioxidant and anticarcinogenic properties. Together, they form an excellent line of defense to fight cancer and tumor growth."
-    }
+        "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout."
+     },
 }
