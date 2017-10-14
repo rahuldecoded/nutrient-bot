@@ -14,6 +14,15 @@
         "Beer is the third most popular beverage after water and tea",
     },
 
+    "Brown Bread": {
+        "Brown bread is made with significant amounts of whole grain flour, usually wheat,and sometimes dark-colored ingredients such as molasses or coffee.",
+        "One slice of whole wheat bread provides 2 g of fiber, which is 8 percent of the daily recommendation for a 2,000-calorie diet.",
+	"There are 128 calories in 1 slice of Whole Wheat Bread. Calorie breakdown: 17% fat, 74% carbs, 9% protein.",
+	"Whole wheat bread is a low-fat and low-cholesterol option.",
+	"Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
+	"The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
+    },
+    
     "Carrot": {
         "Eating carrots can improve eye health",
         "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body.",
@@ -21,9 +30,8 @@
         "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot.",
         "Carrots are a good source of Vitamin K, which helps your blood coagulate faster.",
         "Carrots contain Vitamin A, which helps contribute to eye health. But the idea that carrots help improve your night-vision is a myth."
-
     },
-    
+        
     "Chicken": {
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
@@ -35,6 +43,11 @@
         "For several centuries in pre-modern Latin America, cacao beans were considered valuable enough to use as currency."
         "Dark chocolate has large quantities of flavonoids called catechins, which may benefit heart health."
         "The fat in chocolate is from cocoa butter, and is comprised of about 2/3 saturated fats and 1/3 monounsaturated fat."
+    },
+    
+    "Grapes": {
+        "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
+        "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green."
     },
     
     "Green Tea": {
@@ -55,8 +68,15 @@
     
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
-        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
+        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
+	"Suppresses hunger for weight loss",
+	"Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
     },
+       
+    "Strawberry": {
+        "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
+        "Low in calories and high in vitamins C, B6, K, fiber, folic acid, potassium and amino acids."
+     },
     
     "White Bread": {
         "White bread accounts for 76% of the bread sold in the UK.",
