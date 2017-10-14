@@ -53,6 +53,8 @@
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
+	"The most expensive peanut butter in the world is used by the United States National Institute of Standards and Technology and costs $254 for a single 6oz jar."
+	"Peanut butter was first sold as a form of snack food in 1894, created by Canadian Marcellus Gilmore Edson"
     },
      "Grapes": {
         "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
