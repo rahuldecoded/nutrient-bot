@@ -22,7 +22,6 @@
         "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot.",
         "Carrots are a good source of Vitamin K, which helps your blood coagulate faster.",
         "Carrots contain Vitamin A, which helps contribute to eye health. But the idea that carrots help improve your night-vision is a myth."
-
     },
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
