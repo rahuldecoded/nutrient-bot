@@ -22,4 +22,8 @@
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     }
+    "Carrot": {
+    	"Carrots are a good source of Vitamin K, which helps your blood coagulate faster."
+	"Carrots contain Vitamin A, which helps contribute to eye health. But the idea that carrots help improve your night-vision is a myth."
+    }
 }
