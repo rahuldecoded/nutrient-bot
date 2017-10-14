@@ -92,6 +92,12 @@
         "Red Tea originates from the word /"Rooibos/" meaning /"Red Bush/".",
         "Red Tea tea is rich in calcium, manganese, and fluoride minerals that assist in maintaining good bone structure and stronger teeth."
     },
+    "Red Wine": {
+        "Active compounds in red wine, including polyphenols, resveratrol and quercetin, have proved to have cardioprotective properties.",
+        "Red wine is loaded with antioxidants, particularly flavonoids like quercetin and resveratrol.",
+        "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
+        "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
+    },
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
         "Peanuts are an exceptionally good source of protein.",
