@@ -35,6 +35,8 @@
         "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot.",
         "Carrots are a good source of Vitamin K, which helps your blood coagulate faster.",
         "Carrots contain Vitamin A, which helps contribute to eye health. But the idea that carrots help improve your night-vision is a myth."
+	"Carrots, as parts of meals, can increase satiety and decrease calorie intake in subsequent meals."
+	"People first grew carrots as medicine, not food, for a variety of ailments."
     },
     "Chicken": {
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
