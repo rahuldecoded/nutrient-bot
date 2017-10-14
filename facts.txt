@@ -11,6 +11,14 @@
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
         "Beer is the third most popular beverage after water and tea",
     },
+    "Brown Bread": {
+        "Brown bread is made with significant amounts of whole grain flour, usually wheat,and sometimes dark-colored ingredients such as molasses or coffee.",
+        " One slice of whole wheat bread provides 2 g of fiber, which is 8 percent of the daily recommendation for a 2,000-calorie diet.",
+	"There are 128 calories in 1 slice of Whole Wheat Bread. Calorie breakdown: 17% fat, 74% carbs, 9% protein.",
+	"Whole wheat bread is a low-fat and low-cholesterol option.",
+	"Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
+	" The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
+    },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
         "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
