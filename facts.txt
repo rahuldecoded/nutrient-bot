@@ -53,6 +53,9 @@
     },
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
-        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
+        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
+        "Two peanut farmers have been elected president of the USA – Thomas Jefferson and Jimmy Carter.",
+        "In order to eat a peanut butter sandwich in space, you have to eat it on a tortilla because bread crumbs would float around in the zero gravity environment.",
+        "The world record for peanut butter and jelly sandwich eating is six in one minute."
     },
 }
