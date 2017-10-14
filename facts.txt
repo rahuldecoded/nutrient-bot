@@ -1,4 +1,9 @@
 {
+    "Coriander": {
+        "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
+	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
+	"Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
+    },
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
 	"Apple trees take four to five years to produce their first fruit."
@@ -99,6 +104,10 @@
         "Red wine is loaded with antioxidants, particularly flavonoids like quercetin and resveratrol.",
         "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
         "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
+    },
+    "Pineapple": {
+    "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
+    "Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals, and vitamins that are essential for optimum health."
     },
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
