@@ -11,8 +11,8 @@
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
         "Beer is the third most popular beverage after water and tea",
         "Approximately two-thirds of the total caloric value of beer comes from alcohol, rather than sugar which only makes up the remaining one-third of the value.",
-	"Beer is primarily made from malted barley, grains and hops, and fermented with the help of yeast that break down sugars into ethanol and carbon dioxide.  More sugar results in higher alcohol content after fermentation.",
-	"Cenosillicaphobia is the fear of an empty beer glass."
+	      "Beer is primarily made from malted barley, grains and hops, and fermented with the help of yeast that break down sugars into ethanol and carbon dioxide.  More sugar results in higher alcohol content after fermentation.",
+	      "Cenosillicaphobia is the fear of an empty beer glass."
     },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
@@ -20,7 +20,9 @@
     },
     "Carrot": {
         "Eating carrots can improve eye health",
-        "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body."
+        "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body.",
+        "Just one medium carrot or a handful of baby carrots counts as one serving of your daily veggies.",
+        "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot."
     },
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
@@ -50,4 +52,9 @@
 		"Drying grapes produces raisins, usually drying happenes natually with exposure to sunlight"
 		
 	},
+    "Green Tea": {
+        "A cup of green tea typically contains 25-30mg caffeine.",
+        "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
+        "Green tea contains the amino acid, Theanine, which is known to help combat depression."
+    },
 }
