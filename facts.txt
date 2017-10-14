@@ -17,7 +17,9 @@
     },
     "Carrot": {
         "Eating carrots can improve eye health",
-        "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body."
+        "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body.",
+        "Just one medium carrot or a handful of baby carrots counts as one serving of your daily veggies.",
+        "A baby carrot isn't exactly a baby. Baby carrots come from a large carrot that has been rolled over blades and thrown around in a metal cage to be rubbed down to a short, round-ended baby carrot."
     },
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
@@ -41,4 +43,5 @@
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
     },
+    
 }
