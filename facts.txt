@@ -45,14 +45,5 @@
     "Chicken": {
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
-    },
-    "Green Tea": {
-        "A cup of green tea typically contains 25-30mg caffeine.",
-        "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
-        "Green tea contains the amino acid, Theanine, which is known to help combat depression."
-    },
-    "Peanut Butter": {
-        "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
-        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss."
-    },
-}
+    }
+ }
