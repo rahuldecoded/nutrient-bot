@@ -15,6 +15,8 @@
     "Beer": {
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
         "Beer is the third most popular beverage after water and tea",
+	"Cenosillicaphobia is the fear of an empty beer glass.",
+	"The strongest beer in the world has a 67.5% alcohol content"
     },
     "Beet" : {
 	"The biggest beet in the world was grown by a Dutchman. It weighed over 156 pounds.",
