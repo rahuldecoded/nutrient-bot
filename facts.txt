@@ -11,6 +11,10 @@
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
         "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
     },
+    "Carrot": {
+        "Eating carrots can improve eye health",
+        "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body."
+    },
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
       "The largest chocolate bar ever weighed just over 12,770 pounds.",
