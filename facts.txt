@@ -1,4 +1,4 @@
 "Tea": {
 	  "It takes around 2,000 tiny leaves to make just one pound of finished tea.",
 	  "Tea is naturally low in caffeine. A cup of Black Tea, for example, contains about 40 milligrams of caffeine."
-	},
+},
