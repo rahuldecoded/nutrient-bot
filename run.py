@@ -86,6 +86,8 @@ def main():
             continue
         try:
             request = tokens[3]
+            tokenLength = len(tokens)
+
             if request == "::show":
                 if ircmsg.strip(":").split("!")[0] in admin:
                     sendmsg(channel, str(user_queue.in_queue()) + " \n")
@@ -104,20 +106,20 @@ def main():
 
             # For adding someone as a admin
             if request == "::add":
-                if len(tokens) > 4:
+                if tokenLength > 4:
                     if ircmsg.strip(":").split("!")[0] in admin:
                         admin.append(tokens[1])
-                elif len(tokens) == 4:
+                elif tokenLength == 4:
                     sendmsg(channel, "Usage: :add [nick]")
 
             # For removing someone from admin privilege.
-            if request == "::remove" and len(tokens) > 4:
+            if request == "::remove" and tokenLength > 4:
                 if ircmsg.strip(":").split("!")[0] in admin:
                     try:
                         admin.remove(tokens[1])
                     except ValueError:
                         return tokens[1] + "is not in admin list."
-                elif len(tokens) == 4:
+                elif tokenLength == 4:
                     sendmsg(channel, "Usage: :remove [nick]")
 
             # User Commands
@@ -129,9 +131,9 @@ def main():
             # Command for temperature
             # Syntax: ":temp kolkata"
             if request == "::temp":
-                if len(tokens) > 4:
+                if tokenLength > 4:
                     sendmsg(channel, weather(tokens[1]))
-                elif len(tokens) == 4:
+                elif tokenLength == 4:
                     sendmsg(channel, "Usage: :temp [city name]")
 
             # Command for joke
@@ -142,17 +144,17 @@ def main():
             # Command for google
             # Syntax: ":google"
             if request == "::google":
-                if len(tokens) > 4:
+                if tokenLength > 4:
                     sendmsg(channel, get_urls(' '.join(tokens[4:])))
-                elif len(tokens) == 4:
+                elif tokenLength == 4:
                     sendmsg(channel, "Usage: :google [query]")
             
             # Command for wiki
             # Syntax: ":wiki"
             if request == "::wiki": 
-                if len(tokens) > 4:
+                if tokenLength > 4:
                     sendmsg(channel, wiki.summary(' '.join(tokens[4:])))
-                elif len(tokens) == 4:
+                elif tokenLength == 4:
                     sendmsg(channel, "Usage: :wiki [query]")
 
         except Exception as e:
