@@ -13,4 +13,11 @@
 		"Protien": "0g",
 		"Sugar": "10 g"
 	}, 
+	"Banana": {
+		"Calories": "88",
+		"Fat": "0.3g",
+		"Carbs": "23g",
+		"Protien": "1.1g",
+		"Sugar": "12g"
+	},
 }
