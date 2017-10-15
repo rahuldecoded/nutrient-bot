@@ -162,4 +162,14 @@
         "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
         "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
     },
+    "Black Tea": {
+        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.",
+        "Black tea is rich in abundant tannins and other chemicals that have a positive and relaxing effect on the digestive system of human body. This anti-inflammatory quality of black tea is also helpful for curing digestive disorders.",
+        "Recent medical research suggests that the compounds found in black tea, namely theaflavins and thearubigens, are positively loaded with health benefits, in addition to giving the tea its dark color and unique flavor"
+    },
+    "Raspberry": {
+        "The oil from raspberries has a sun protection factor. Furthermore, it helps to lose weight and also takes proper care of your skin while aging.",
+        "Rich in vitamins, antioxidants, and fiber, raspberries are a delicious fruit with many health benefits. They have a high concentration of ellagic acid, a phenolic compound that prevents cancer, thereby stopping the growth of cancer cells and eliminating the progress of some cancers.",
+        "This fruit is high in dietary fiber and manganese. Fiber aids in slowing down the digestive process so that you feel full for longer."
+    },
 }
