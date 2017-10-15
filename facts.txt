@@ -1,4 +1,4 @@
-{
+﻿{
     "Coriander": {
         "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
 	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
@@ -144,7 +144,9 @@
         "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout.",
         "Strawberries are the first fruit to ripen each spring.",
         "There are three different types of strawberries: June-bearing, overbearing and day neutral.",
-        "Strawberries are believed to help reduce the risk of heart disease and certain cancers."
+        "Strawberries are believed to help reduce the risk of heart disease and certain cancers.",
+	"Strawberries are the only fruit that carry their seeds on the outside",
+	"Strawberries are perennial, meaning once they are planted they grow back every year"
      },
      "White Bread": {
         "White bread accounts for 76% of the bread sold in the UK.",
