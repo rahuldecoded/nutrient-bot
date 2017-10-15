@@ -68,6 +68,12 @@
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     },
+    "Jam": {
+    	"Marmalade is citrus-fruit based jam. They are both very similar, the type of fruit is the only difference.",
+	"The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
+	"Jam is known as 'jelly' in the United States.",
+	"Jam is made by boiling cropped fruit or vegetable pulb with sugar and water."
+    },
     "Wine": {
         "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin.",
         "Wine names usually indicate the location or the grape varieties used.",
@@ -89,6 +95,10 @@
         "Green tea contains the amino acid, Theanine, which is known to help combat depression.",
         "Green tea boosts immunity, Research shows that people who regularly drink green tea do not fall victim to common bacterial and viral infections as easily as those who do not add green tea to their diet.",
         "Green tea prevents cancer, Apart from causing premature aging, free radicals are also responsible for causing certain types of cancer. The Catechins present in green tea neutralize these free radicals, prevent formation of carcinogens like nitrosamines and reduce the risk of cancer for people who regularly consume green tea. "
+    },
+    "Macaroni and Cheese": {
+    	  "Macaroni and cheese has a serving size of 1 cup, 189 grams.",
+	      "Macaroni and cheese contains about 850 grams of sodium which is over 1/3rd of the recommended sodium intake, 2300 grams."
     },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
@@ -125,6 +135,10 @@
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
         "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
     },
+    "Quinoa": {
+    	  "Quinoa is one of the best sources of fiber, being 2.8% fiber.", 
+	      "Quinoa is rich in proteins and even contains all nine amino acids."
+    },
     "Grapes": {
         "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
         "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
@@ -156,12 +170,9 @@
         "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
         "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
     },
-    "Quinoa": {
-    	"Quinoa is one of the best sources of fiber, being 2.8% fiber.", 
-	"Quinoa is rich in proteins and even contains all nine amino acids."
+    "Black Tea": {
+        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.",
+        "Black tea is rich in abundant tannins and other chemicals that have a positive and relaxing effect on the digestive system of human body. This anti-inflammatory quality of black tea is also helpful for curing digestive disorders.",
+        "Recent medical research suggests that the compounds found in black tea, namely theaflavins and thearubigens, are positively loaded with health benefits, in addition to giving the tea its dark color and unique flavor"
     },
-    "Macaroni and Cheese": {
-    	"Macaroni and cheese has a serving size of 1 cup, 189 grams.",
-	"Macaroni and cheese contains about 850 grams of sodium which is over 1/3rd of the recommended sodium intake, 2300 grams."
- },
 }
