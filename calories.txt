@@ -20,4 +20,11 @@
 		"Protien": "1.1g",
 		"Sugar": "12g"
 	},
+	"Orange": {
+		"Calories": "47",
+		"Fat": "0.1g",
+		"Carbs": "12g",
+		"Protien": "0.9g",
+		"Sugar": "9g"
+	},
 }
