@@ -162,4 +162,7 @@
         "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
         "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
     },
+    "Black Tea": {
+        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.
+    }
 }
