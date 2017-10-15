@@ -156,4 +156,12 @@
         "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
         "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
     },
+    "Quinoa": {
+    	"Quinoa is one of the best sources of fiber, being 2.8% fiber.", 
+	"Quinoa is rich in proteins and even contains all nine amino acids."
+    },
+    "Macaroni and Cheese": {
+    	"Macaroni and cheese has a serving size of 1 cup, 189 grams.",
+	"Macaroni and cheese contains about 850 grams of sodium which is over 1/3rd of the recommended sodium intake, 2300 grams."
+ },
 }
