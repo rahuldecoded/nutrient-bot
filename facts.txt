@@ -175,5 +175,5 @@
     "Oolong tea": {
         "This tea is a natural gift that is rich in antioxidants. It also contains vital vitamins and minerals such as calcium, manganese, copper, carotin, selenium, and potassium, as well as vitamin A, B, C, E, and vitamin K.",
         "Oolong tea contains caffeine, theophylline, and theobromine (which are similar to caffeine) that on consumption, may stimulate the nervous system."
-    }
+    },
 }
