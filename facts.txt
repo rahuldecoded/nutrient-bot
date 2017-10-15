@@ -163,6 +163,8 @@
         "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
     },
     "Black Tea": {
-        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.
+        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.",
+        "Black tea is rich in abundant tannins and other chemicals that have a positive and relaxing effect on the digestive system of human body. This anti-inflammatory quality of black tea is also helpful for curing digestive disorders.",
+        "Recent medical research suggests that the compounds found in black tea, namely theaflavins and thearubigens, are positively loaded with health benefits, in addition to giving the tea its dark color and unique flavor"
     },
 }
