@@ -172,4 +172,8 @@
         "Rich in vitamins, antioxidants, and fiber, raspberries are a delicious fruit with many health benefits. They have a high concentration of ellagic acid, a phenolic compound that prevents cancer, thereby stopping the growth of cancer cells and eliminating the progress of some cancers.",
         "This fruit is high in dietary fiber and manganese. Fiber aids in slowing down the digestive process so that you feel full for longer."
     },
+    "Oolong tea": {
+        "This tea is a natural gift that is rich in antioxidants. It also contains vital vitamins and minerals such as calcium, manganese, copper, carotin, selenium, and potassium, as well as vitamin A, B, C, E, and vitamin K.",
+        "Oolong tea contains caffeine, theophylline, and theobromine (which are similar to caffeine) that on consumption, may stimulate the nervous system."
+    }
 }
