@@ -1,4 +1,4 @@
-{
+﻿{
     "Coriander": {
         "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
 	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
@@ -130,6 +130,10 @@
         "Peanuts are an exceptionally good source of protein.",
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
         "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
+    },
+    "Pork" : {
+    	"Pork has more protein than chicken",
+	"Pork is high in Vitamin B, iron and zinc"
     },
     "Grapes": {
         "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
