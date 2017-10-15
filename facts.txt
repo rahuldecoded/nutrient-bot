@@ -1,4 +1,4 @@
-{
+﻿{
     "Coriander": {
         "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
 	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
@@ -143,4 +143,10 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+    "Peanut": {
+	"Peanuts account for two-thirds of all snack nuts consumed in the USA."
+        "Peanuts contribute more than $4 billion to the USA economy each year."
+        "Peanuts are a good source of folate, which can reduce the risk of certain birth defects in the brain and spinal cord." 
+        "Peanuts are planted after the last frost in April or early May."
+     },
 }
