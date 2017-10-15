@@ -164,5 +164,5 @@
     },
     "Black Tea": {
         "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.
-    }
+    },
 }
