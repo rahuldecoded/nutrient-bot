@@ -152,14 +152,28 @@
 	"There are 66 calories in 1 slice of White Bread. Calorie breakdown: 11% fat, 78% carbs, 11% protein."
      },
     "Wine": {
-        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin."
-        "Wine names usually indicate the location or the grape varieties used."
-        "Wine dilates the small blood vessels and helps to prevent angina and clotting."
-        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
+        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin.",
+        "Wine names usually indicate the location or the grape varieties used.",
+        "Wine dilates the small blood vessels and helps to prevent angina and clotting.",
+        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years.",
         "10,000 varieties of wine grapes exist worldwide."
     },
     "Red Tea": {
         "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
         "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
+    },
+    "Avocado": {
+        "Avocados are a fruit, not a vegetable. They belong to the Genus Persea in the Lauraceae family.",
+        "Avocados contain four grams of protein, making them the fruit with the highest protein content!",
+        "Avocado trees do not self-pollinate; they need another avocado tree close by in order to grow. Avocados are an Aztec symbol of love and fertility, and they also grow in pairs on trees.",
+        "Avocados mature on the tree, but only ripen once they are taken off the tree.",
+        "Avocados have the highest fiber content of any fruit and contain vitamin B6, vitamin C, vitamin E, potassium, magnesium, and folate."
+    },
+    "Mango": {
+        "Mangos were first grown in India over 5,000 years ago",
+        "A one-cup serving of mangos is 100 calories",
+        "It is believed that Buddha meditated under the cool shade of a mango tree.",
+        "The oldest living mango tree is 300 years old and is found in East Khandesh. Surprisingly, this tree still produces viable fruit!",
+        "Mango leaves are often used at weddings to ensure the couple bear plenty of children."
     },
 }
