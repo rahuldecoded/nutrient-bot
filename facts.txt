@@ -13,7 +13,8 @@
 	"Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
     },
     
-    "Beef": { "Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
+    "Beef": { 
+	"Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
         "Beef is an excellent source of iron, and may help prevent anemia when eaten regularly.",
 	"Meat is an excellent source of various vitamins and minerals including vitamin B12, zinc, selenium, iron, and vitamin B6."
     }, 
