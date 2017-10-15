@@ -1,9 +1,4 @@
 {
-    "Coriander": {
-        "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
-	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
-	"Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
-    },
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
 	"Apple trees take four to five years to produce their first fruit."
@@ -29,9 +24,10 @@
 	"The beet and its greens are both an excellent source of folate, vitamin A and K, and a very good source of manganese, copper, and potassium.",
 	"Beets have also been shown to support the detoxification process in the body. The betalin compound found in beets, which gives them their red color, helps to capture troublesome toxins and flush them out of the system via the urinary tract."
 	},
-    "Milk": {
-        "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
-        "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
+     "Black Tea": {
+        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.",
+        "Black tea is rich in abundant tannins and other chemicals that have a positive and relaxing effect on the digestive system of human body. This anti-inflammatory quality of black tea is also helpful for curing digestive disorders.",
+        "Recent medical research suggests that the compounds found in black tea, namely theaflavins and thearubigens, are positively loaded with health benefits, in addition to giving the tea its dark color and unique flavor"
     },
     "Brown Bread": {
         "Brown bread is made with significant amounts of whole grain flour, usually wheat,and sometimes dark-colored ingredients such as molasses or coffee.",
@@ -57,6 +53,10 @@
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
     },
+    "Chicken": {
+        "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
+        "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
+    },
     "Chocolate": {
       "The first chocolate bar was invented in 1847 by Joseph Fry.",
       "The largest chocolate bar ever weighed just over 12,770 pounds.",
@@ -64,30 +64,20 @@
       "Dark chocolate has large quantities of flavonoids called catechins, which may benefit heart health.",
       "The fat in chocolate is from cocoa butter, and is comprised of about 2/3 saturated fats and 1/3 monounsaturated fat."
     },
-    "Orange": {
-    	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
-    	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
-    },
-    "Jam": {
-    	"Marmalade is citrus-fruit based jam. They are both very similar, the type of fruit is the only difference.",
-	"The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
-	"Jam is known as 'jelly' in the United States.",
-	"Jam is made by boiling cropped fruit or vegetable pulb with sugar and water."
-    },
-    "Wine": {
-        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin.",
-        "Wine names usually indicate the location or the grape varieties used.",
-        "Wine dilates the small blood vessels and helps to prevent angina and clotting.",
-        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years.",
-        "10,000 varieties of wine grapes exist worldwide."
-    },
-    "Chicken": {
-        "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
-        "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
+    "Coriander": {
+        "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
+	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
+	"Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
     },
     "Grapes": {
         "Grapes are a kind of berry. They have a leathery covering and a fleshy inside, similar to blueberries.",
         "Grapes come in many colors, including green, red, black, yellow, pink, and purple. "White" grapes are actually green."
+    },
+    "Grapes": {
+        "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
+        "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
+        "Grapes are a wonderful source of micro-nutrients like copper, iron, and manganese, all of which are important in the formation and strength of the bones.",
+        "Grapes increase the nitric oxide levels in the blood, which prevents blood clots. Therefore, grapes are an effective way to reduce the chances of heart attacks."
     },
     "Green Tea": {
         "A cup of green tea typically contains 25-30mg caffeine.",
@@ -95,6 +85,20 @@
         "Green tea contains the amino acid, Theanine, which is known to help combat depression.",
         "Green tea boosts immunity, Research shows that people who regularly drink green tea do not fall victim to common bacterial and viral infections as easily as those who do not add green tea to their diet.",
         "Green tea prevents cancer, Apart from causing premature aging, free radicals are also responsible for causing certain types of cancer. The Catechins present in green tea neutralize these free radicals, prevent formation of carcinogens like nitrosamines and reduce the risk of cancer for people who regularly consume green tea. "
+    },
+    "Jam": {
+    	"Marmalade is citrus-fruit based jam. They are both very similar, the type of fruit is the only difference.",
+	"The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
+	"Jam is known as 'jelly' in the United States.",
+	"Jam is made by boiling cropped fruit or vegetable pulb with sugar and water."
+    },
+    "Macaroni and Cheese": {
+    	  "Macaroni and cheese has a serving size of 1 cup, 189 grams.",
+	      "Macaroni and cheese contains about 850 grams of sodium which is over 1/3rd of the recommended sodium intake, 2300 grams."
+    },
+    "Milk": {
+        "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
+        "Milk is an excellent source of many vitamins and minerals, including vitamin B12, calcium, riboflavin, and phosphorus. It is often enriched with other vitamins, especially vitamin D."
     },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
@@ -104,26 +108,9 @@
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     },
-    "Peanut Butter": {
-        "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
-        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
-	"Suppresses hunger for weight loss",
-	"Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
-    },
-    "Red Tea": {
-        "Red Tea is completely caffeine free.",
-        "Red Tea originates from the word /"Rooibos/" meaning /"Red Bush/".",
-        "Red Tea tea is rich in calcium, manganese, and fluoride minerals that assist in maintaining good bone structure and stronger teeth."
-    },
-    "Red Wine": {
-        "Active compounds in red wine, including polyphenols, resveratrol and quercetin, have proved to have cardioprotective properties.",
-        "Red wine is loaded with antioxidants, particularly flavonoids like quercetin and resveratrol.",
-        "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
-        "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
-    },
-    "Pineapple": {
-    "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
-    "Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals, and vitamins that are essential for optimum health."
+    "Orange": {
+    	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
+    	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     },
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
@@ -131,11 +118,34 @@
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
         "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
     },
-    "Grapes": {
-        "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
-        "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
-        "Grapes are a wonderful source of micro-nutrients like copper, iron, and manganese, all of which are important in the formation and strength of the bones.",
-        "Grapes increase the nitric oxide levels in the blood, which prevents blood clots. Therefore, grapes are an effective way to reduce the chances of heart attacks."
+    "Peanut Butter": {
+        "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
+        "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
+	"Suppresses hunger for weight loss",
+	"Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
+    },
+    "Pineapple": {
+    "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
+    "Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals, and vitamins that are essential for optimum health."
+    },
+    "Quinoa": {
+    	  "Quinoa is one of the best sources of fiber, being 2.8% fiber.", 
+	      "Quinoa is rich in proteins and even contains all nine amino acids."
+    },
+    "Red Tea": {
+        "Red Tea is completely caffeine free.",
+        "Red Tea originates from the word /"Rooibos/" meaning /"Red Bush/".",
+        "Red Tea tea is rich in calcium, manganese, and fluoride minerals that assist in maintaining good bone structure and stronger teeth."
+    },
+    "Red Tea": {
+        "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
+        "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
+    },
+    "Red Wine": {
+        "Active compounds in red wine, including polyphenols, resveratrol and quercetin, have proved to have cardioprotective properties.",
+        "Red wine is loaded with antioxidants, particularly flavonoids like quercetin and resveratrol.",
+        "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
+        "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
     },
     "Strawberry": {
         "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
@@ -158,13 +168,11 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
-    "Red Tea": {
-        "Red tea is an ideal beverage, as it can be sipped hot or cold. Cold red tea is refreshing, while hot red tea is soothing.",
-        "The absence of caffeine in red tea makes it a wonderful bed-time beverage that can aid those with insomnia and calm an irritated throat."
-    },
-    "Black Tea": {
-        "The regular consumption of black tea can help repair coronary artery dysfunctions in many heart patients. Therefore, black tea drinkers are at a decreased risk of contracting many cardiovascular diseases.",
-        "Black tea is rich in abundant tannins and other chemicals that have a positive and relaxing effect on the digestive system of human body. This anti-inflammatory quality of black tea is also helpful for curing digestive disorders.",
-        "Recent medical research suggests that the compounds found in black tea, namely theaflavins and thearubigens, are positively loaded with health benefits, in addition to giving the tea its dark color and unique flavor"
+    "Wine": {
+        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin.",
+        "Wine names usually indicate the location or the grape varieties used.",
+        "Wine dilates the small blood vessels and helps to prevent angina and clotting.",
+        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years.",
+        "10,000 varieties of wine grapes exist worldwide."
     },
 }
