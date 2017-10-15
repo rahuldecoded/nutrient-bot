@@ -85,78 +85,81 @@ def main():
         if tokens[1] != "PRIVMSG":
             continue
         try:
-            if tokens[3] == "::show":
+            request = tokens[3]
+            tokenLength = len(tokens)
+
+            if request == "::show":
                 if ircmsg.strip(":").split("!")[0] in admin:
                     sendmsg(channel, str(user_queue.in_queue()) + " \n")
 
             # For getting to the next user in the queue.
-            if tokens[3] == "::next":
+            if request == "::next":
                 if ircmsg.strip(":").split("!")[0] in admin:
                     sendmsg(channel, str(user_queue.next_nick()) + " \n")
                     user_queue.pop_next()
 
             # For clearing the queue.
-            if tokens[3] == "::clearqueue":
+            if request == "::clearqueue":
                 if ircmsg.strip(":").split("!")[0] in admin:
                     user_queue.clear()
                     sendmsg(channel, "Queue cleared")
 
             # For adding someone as a admin
-            if tokens[3] == "::add" and len(tokens) > 4:
-                if ircmsg.strip(":").split("!")[0] in admin:
-                    admin.append(tokens[1])
-            elif tokens[3] == "::add" and len(tokens) == 4:
-                sendmsg(channel, "Usage: :add [nick]")
+            if request == "::add":
+                if tokenLength > 4:
+                    if ircmsg.strip(":").split("!")[0] in admin:
+                        admin.append(tokens[1])
+                elif tokenLength == 4:
+                    sendmsg(channel, "Usage: :add [nick]")
 
             # For removing someone from admin privilege.
-            if tokens[3] == "::remove" and len(tokens) > 4:
+            if request == "::remove" and tokenLength > 4:
                 if ircmsg.strip(":").split("!")[0] in admin:
                     try:
                         admin.remove(tokens[1])
                     except ValueError:
                         return tokens[1] + "is not in admin list."
-            elif tokens[3] == "::remove" and len(tokens) == 4:
-                sendmsg(channel, "Usage: :remove [nick]")
+                elif tokenLength == 4:
+                    sendmsg(channel, "Usage: :remove [nick]")
 
             # User Commands
-            if tokens[3] == ":!":
+            if request == ":!":
                 user_name = ircmsg.strip(":").split("!")
                 sendmsg(channel, str(user_name[0]) + " , you have added in queue. Wait for your turn.\n")
                 user_queue.enqueue(user_name[0])
 
             # Command for temperature
             # Syntax: ":temp kolkata"
-
-            if tokens[3] == "::temp" and len(tokens) > 4:
-                sendmsg(channel, weather(tokens[1]))
-            elif tokens[3] == "::temp" and len(tokens) == 4:
-                sendmsg(channel, "Usage: :temp [city name]")
+            if request == "::temp":
+                if tokenLength > 4:
+                    sendmsg(channel, weather(tokens[1]))
+                elif tokenLength == 4:
+                    sendmsg(channel, "Usage: :temp [city name]")
 
             # Command for joke
             # Syntax: ":joke"
-
-            if tokens[3] == "::joke":
+            if request == "::joke":
                 sendmsg(channel, joke())
 
             # Command for google
             # Syntax: ":google"
-
-            if tokens[3] == "::google" and len(tokens) > 4:
-                sendmsg(channel, get_urls(' '.join(tokens[4:])))
-            elif tokens[3] == "::google" and len(tokens) == 4:
-                sendmsg(channel, "Usage: :google [query]")
+            if request == "::google":
+                if tokenLength > 4:
+                    sendmsg(channel, get_urls(' '.join(tokens[4:])))
+                elif tokenLength == 4:
+                    sendmsg(channel, "Usage: :google [query]")
             
             # Command for wiki
             # Syntax: ":wiki"
-            if tokens[3] == "::wiki" and len(tokens) > 4:
-                sendmsg(channel, wiki.summary(' '.join(tokens[4:])))
-            elif tokens[3] == "::wiki" and len(tokens) == 4:
-                sendmsg(channel, "Usage: :wiki [query]")
+            if request == "::wiki": 
+                if tokenLength > 4:
+                    sendmsg(channel, wiki.summary(' '.join(tokens[4:])))
+                elif tokenLength == 4:
+                    sendmsg(channel, "Usage: :wiki [query]")
 
         except Exception as e:
             tb = traceback.format_exc()
             print(tb)
-
 
 main()
 exit(0)
