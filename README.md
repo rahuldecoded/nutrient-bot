@@ -12,3 +12,5 @@ Example:
       "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
     },
 ```
+
+Please add your entries in alphabetical order.
