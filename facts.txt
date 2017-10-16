@@ -1,4 +1,4 @@
-{
+﻿{
     "Coriander": {
         "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
 	"Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
@@ -143,6 +143,10 @@
         "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
         "Grapes are a wonderful source of micro-nutrients like copper, iron, and manganese, all of which are important in the formation and strength of the bones.",
         "Grapes increase the nitric oxide levels in the blood, which prevents blood clots. Therefore, grapes are an effective way to reduce the chances of heart attacks."
+    },
+    "Skyr" : {
+    	"Skyr is high in protein and low in fat",
+	"Skyr has been a part of Icelandic cuisine for thousands of years"
     },
     "Strawberry": {
         "Strawberries are the only fruit that have their seeds on the outside with the average berry containing an average of 200 seeds.",
