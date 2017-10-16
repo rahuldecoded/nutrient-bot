@@ -138,6 +138,10 @@
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
         "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
     },
+    "Pork" : {
+    	"Pork has more protein than chicken",
+	"Pork is high in Vitamin B, iron and zinc"
+    },
     "Grapes": {
         "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
         "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
