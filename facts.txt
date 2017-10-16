@@ -64,6 +64,13 @@
       "Dark chocolate has large quantities of flavonoids called catechins, which may benefit heart health.",
       "The fat in chocolate is from cocoa butter, and is comprised of about 2/3 saturated fats and 1/3 monounsaturated fat."
     },
+    "Coffee": {
+        "Coffee is the second most traded commodity on earth, only behind petroleum.",
+        "The majority of coffee is produced in Brazil.",
+        "Coffee is actually a fruit.",
+        "You can overdose on coffee. However, you would need to drink over 100 cups to consume the lethal dose of caffeine.",
+        "Americans consume 400 million cups of coffee per day."
+    },
     "Orange": {
     	"The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
     	"You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
