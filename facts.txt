@@ -128,6 +128,11 @@
         "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
         "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
     },
+    "Rye" : {
+	"Rye is a great source of fiber, vitamin E, calcium, iron and potassium",
+	"Rye is sometimes used as a winter crop in organic farming",
+	"Rye is used as a base ingredient in many liqours, like vodka and gin"
+    },
     "Pineapple": {
     "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
     "Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals, and vitamins that are essential for optimum health."
