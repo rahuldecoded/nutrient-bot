@@ -187,4 +187,8 @@
         "One cup of pineapple has 70 to 85 calories.",
         "Raw pineapple is a great source for manganese."
     },
+    "Almond": {
+	"The bitter taste in Almonds is derived from the 4-9 mg of hydrogen cyanide in each.",
+	"Raw Almonds contain prussic acids, the eating of more than a handful can be lethal. this is why all almonds are dried, roasted and/or pasteurized."
+    },
 }
