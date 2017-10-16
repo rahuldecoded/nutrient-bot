@@ -155,7 +155,9 @@
         "Strawberries are abundant in antioxidants and detoxifiers, which help in treating arthritis and gout.",
         "Strawberries are the first fruit to ripen each spring.",
         "There are three different types of strawberries: June-bearing, overbearing and day neutral.",
-        "Strawberries are believed to help reduce the risk of heart disease and certain cancers."
+        "Strawberries are believed to help reduce the risk of heart disease and certain cancers.",
+	"Strawberries are the only fruit that carry their seeds on the outside",
+	"Strawberries are perennial, meaning once they are planted they grow back every year"
      },
      "White Bread": {
         "White bread accounts for 76% of the bread sold in the UK.",
