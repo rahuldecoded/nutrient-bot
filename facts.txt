@@ -48,6 +48,11 @@
         "Most carrots used to be yellow, white or purple. In the 17th century, Dutch growers cultivated orange carrots as a tribute to William of Orange. Now most carrots grown in the world are orange.",
         "Carrots contain more sugar than any other vegetable, except for beets. Eating too many carrots can cause a condition called carotenemia. This causes the skin to turn yellowish orange, especially on the palms or soles of the feet, but it is completely harmless."
     },
+    "Celery": {
+    	"Celery reduces inflammation. If you are suffering from joint pains, lung infections, asthma, or acne, eating more celery will bring much-needed relief."
+    	"It regulates the body’s alkaline balance, thus protecting you from problems caused by an overly acidic diet."
+    	"It lowers blood pressure: An active compound called phthalides in celery has been proven to boost circulatory health. Raw, whole celery reduces high blood pressure."
+    },
     "Chicken": {
         "Chicken is a rich source of two B vitamins: niacin or vitamin B3 and vitamin B6. A 4-ounce (1 ounce = 28.3495g) portion meets 40 and 16 percent respectively of the recommended daily value, or DV.",
         "Like beef, fish and other types of poultry, chicken is high in protein. Each ounce of meat provides 7g protein."
@@ -70,6 +75,12 @@
         "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
         "Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
         "Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
+    },
+    "Cumin seeds": {
+    	"Cumin is the dried seed of the herb Cuminum cyminum."
+    	"The essential oil extracted from dried cumin seeds has health benefits: it is bactericidal, digestive and diuretic, it tonifies, stimulates and is an excellent detoxicant."
+    	"The essential oil extracted from dried cumin seeds has health benefits: it is bactericidal, digestive and diuretic, it tonifies, stimulates and is an excellent detoxicant."
+    	"It also helps in curing piles."
     },
     "Grapes": {
         "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
@@ -160,10 +171,5 @@
         "Wine dilates the small blood vessels and helps to prevent angina and clotting."
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
-    },
-    "Celery": {
-    	"Celery reduces inflammation. If you are suffering from joint pains, lung infections, asthma, or acne, eating more celery will bring much-needed relief."
-    	"It regulates the body’s alkaline balance, thus protecting you from problems caused by an overly acidic diet."
-    	"It lowers blood pressure: An active compound called phthalides in celery has been proven to boost circulatory health. Raw, whole celery reduces high blood pressure."
     },
 }
