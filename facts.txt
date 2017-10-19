@@ -149,6 +149,12 @@
         "Strawberries are the only fruit that carry their seeds on the outside",
         "Strawberries are perennial, meaning once they are planted they grow back every year"
      },
+     "Tofu": {
+        "Tofu has a low calorie count, relatively large amounts of protein and high in iron.",
+        "Tofu was first prepared in China, and is very popular in East Asian and Southeast Asian cuisines.",
+	"Tofu is cultivated by coagulating soy milk and then pressing the resulting curds into soft white blocks.",
+	"In the middle of the 20th century, popularity of tofu began to spread across Europe due to increased cultural contact between the West and East Asia and growing interest in vegetarianism."
+     },
      "White Bread": {
         "White bread accounts for 76% of the bread sold in the UK.",
         "White bread typically refers to breads made from wheat flour from which the bran and the germ layers have been removed from the whole wheatberry as part of the flour grinding or milling process, producing a light-colored flour.",
