@@ -1,0 +1,18 @@
+version: '2'
+services:
+  irc:
+    build: ./Docker/irc
+    ports:
+      - "6667:6667"
+
+  nutrient:
+    depends_on:
+      - irc
+    restart: always
+    build: ./Docker/nutrient
+    volumes:
+      - .:/code
+    environment:
+      NB_USER: "nutri"
+      NB_SERVER: "irc"
+      NB_CHANNEL: "#nbchannel"

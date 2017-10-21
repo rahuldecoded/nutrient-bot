@@ -1,3 +1,4 @@
+import os
 import re
 import socket
 
@@ -26,12 +27,12 @@ def ping():
 # This is a main routine
 def main():
     global irc, user_queue
-    botnick = "nutrient-bot"
+    botnick = os.environ.get("NB_USER", "nutrient-bot")
     bufsize = 2048
     admin = ["rahuldecoded"]
-    channel = "#uit-foss"
-    port = 6667
-    server = "irc.freenode.net"
+    channel = os.environ.get("NB_CHANNEL", "#uit-foss")
+    port = int(os.environ.get("NB_PORT", 6667))
+    server = os.environ.get("NB_SERVER", "irc.freenode.net")
     master = "rahuldecoded"
     uname = "Nutrient Bot"
     realname = "I'm a Test Bot!"
