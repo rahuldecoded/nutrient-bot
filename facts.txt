@@ -161,4 +161,9 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+    "Durian Fruit": {
+    "Raw Durian is composed of 65% water.",
+    "It contains 27% carbohydrates, 5% fat, and 1% protein.",
+    "100 grams of Durian provides up to 33% of daily value of thiamin."
+    }
 }
