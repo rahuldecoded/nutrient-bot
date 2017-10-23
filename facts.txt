@@ -165,4 +165,10 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+    "Jam": {
+        "The making of jam and jelly probably began centuries ago in the Middle Eastern countries, where sugar cane grew naturally."
+        "Historically in Ireland, two of the most popular jam flavours made in the home were Rhubarb and Ginger and Blackberry and Apple."
+        "Jam is a thick mixture of cut or crushed fruit and sugar (and often pectin) that is cooked until the pieces of fruit form a     	  thick puree.  Jelly is a clear, bright mixture made from fruit juice, sugar and pectin or acid that forms a gel."
+        "Jam is an interesting condiment because its neither a solid or a liquid. It can contain chunks of fruit which are solids, but if  	    let out of the fridge the juicy bit becomes a liquid. Also Jam moves to fit a contain, which is one of the properties of a liquid."
+    }
 }
