@@ -1,16 +1,16 @@
 ﻿{
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
-	      "Apple trees take four to five years to produce their first fruit."
+        "Apple trees take four to five years to produce their first fruit."
     },
     "Banana": {
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
-	      "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
+        "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
     },
     "Beef": { 
-    	  "Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
+        "Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
         "Beef is an excellent source of iron, and may help prevent anemia when eaten regularly.",
-	      "Meat is an excellent source of various vitamins and minerals including vitamin B12, zinc, selenium, iron, and vitamin B6."
+        "Meat is an excellent source of various vitamins and minerals including vitamin B12, zinc, selenium, iron, and vitamin B6."
     }, 
     "Beer": {
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
@@ -30,11 +30,11 @@
     },
     "Brown Bread": {
         "Brown bread is made with significant amounts of whole grain flour, usually wheat,and sometimes dark-colored ingredients such as molasses or coffee.",
-        " One slice of whole wheat bread provides 2 g of fiber, which is 8 percent of the daily recommendation for a 2,000-calorie diet.",
+        "One slice of whole wheat bread provides 2 g of fiber, which is 8 percent of the daily recommendation for a 2,000-calorie diet.",
         "There are 128 calories in 1 slice of Whole Wheat Bread. Calorie breakdown: 17% fat, 74% carbs, 9% protein.",
         "Whole wheat bread is a low-fat and low-cholesterol option.",
         "Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
-        " The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
+        "The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
     },
     "Carrot": {
         "Eating carrots can improve eye health",
@@ -68,7 +68,7 @@
     },
     "Coriander": {
         "About 20 gram of Coriander leaves contains 5 calories, 0.73 gram of carbohydrate, 0.1 grams of fat, 0.43 gram of protein, 3% daily value of Vitamin B9 and 6% daily value of vitamin C.",
-        "Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
+        "Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health.",
         "Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
     },
     "Grapes": {
@@ -113,8 +113,11 @@
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
+        "Two peanut farmers have been elected president of the USA – Thomas Jefferson and Jimmy Carter.",
+        "In order to eat a peanut butter sandwich in space, you have to eat it on a tortilla because bread crumbs would float around in the zero gravity environment.",
+        "The world record for peanut butter and jelly sandwich eating is six in one minute.",
         "Suppresses hunger for weight loss",
-        "Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
+        "Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease."
     },
     "Pineapple": {
         "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
@@ -159,10 +162,10 @@
         "There are 66 calories in 1 slice of White Bread. Calorie breakdown: 11% fat, 78% carbs, 11% protein."
      },
     "Wine": {
-        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin."
-        "Wine names usually indicate the location or the grape varieties used."
-        "Wine dilates the small blood vessels and helps to prevent angina and clotting."
-        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
+        "Since red wine is fermented together with its skin, it has more antioxidants than white wine which is processed without its skin.",
+        "Wine names usually indicate the location or the grape varieties used.",
+        "Wine dilates the small blood vessels and helps to prevent angina and clotting.",
+        "The average age of a French oak tree harvested for use in creating wine barrels is 170 years.",
         "10,000 varieties of wine grapes exist worldwide."
     },
 }
