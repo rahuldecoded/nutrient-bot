@@ -165,4 +165,8 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+    "Jam": {
+    	"Jam does not have fat and cholesterol which helps to gain a healthy weight.",
+	"The pectin helps to lower the chances of cancer and promotes the health of skin, hair, bones and finger nails."
+    },
 }
