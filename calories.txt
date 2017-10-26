@@ -13,4 +13,10 @@
 		"Protien": "0g",
 		"Sugar": "10 g"
 	}, 
+	"Apricot": {
+		"Calories": "79",
+		"Fat": ".6g"
+		"Carbs": "18g"
+		"Protein": "2.3g"
+		"Sugar": "15g"
 }
