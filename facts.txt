@@ -1,16 +1,19 @@
 ﻿{
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
-	      "Apple trees take four to five years to produce their first fruit."
+	    "Apple trees take four to five years to produce their first fruit."
+        "There are over 2,500 varities of apples grown in the United States, but only the crabapple is native to North America"
+        "It takes about 36 apples to create one gallon of apple cider."
+            
     },
     "Banana": {
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
-	      "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
+	    "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
     },
     "Beef": { 
-    	  "Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
+    	"Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
         "Beef is an excellent source of iron, and may help prevent anemia when eaten regularly.",
-	      "Meat is an excellent source of various vitamins and minerals including vitamin B12, zinc, selenium, iron, and vitamin B6."
+	    "Meat is an excellent source of various vitamins and minerals including vitamin B12, zinc, selenium, iron, and vitamin B6."
     }, 
     "Beer": {
         "Beer is one of the world's oldest prepared beverages, possibly dating back to the early Neolithic or 9500 BC.",
@@ -34,7 +37,7 @@
         "There are 128 calories in 1 slice of Whole Wheat Bread. Calorie breakdown: 17% fat, 74% carbs, 9% protein.",
         "Whole wheat bread is a low-fat and low-cholesterol option.",
         "Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
-        " The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
+        "The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
     },
     "Carrot": {
         "Eating carrots can improve eye health",
@@ -104,6 +107,10 @@
         "The Florida oranges are greener than the California oranges. The warm night climate in Florida causes the chlorophyll pigments to migrate into the orange peel making it more greener.",
         "You will have to eat 7 cups of cornflakes to get the same amount to fiber you would get from one medium orange."
     },
+    "Papaya":{
+        "The papaya is the fruit of the Carica Papaya tree."
+        "The papaya was introduced to Hawaii in the early 1800s. Today, Hawaii is the only U.S. state that grows papayas commercially."
+    }
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
         "Peanuts are an exceptionally good source of protein.",
