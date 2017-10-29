@@ -92,9 +92,11 @@
         "Jam is known as 'jelly' in the United States.",
         "Jam is made by boiling cropped fruit or vegetable pulb with sugar and water."
     },
-    "Mango":{
+    "Mango": {
     	"One cup of mangos is just 100 calories, which means it is just the perfect sweet treat.",
-    	"Mangos contain over 20 vitamins, which helps them be a superfood."
+    	"Mangos contain over 20 vitamins, which helps them be a superfood.",
+	"The mango fruit has been found to protect from colon, breast, leukemia and prostate cancers.",
+	"The mango peel is rich in phytonutrients, such as pigment antioxidants like carotenoids and polyphenols."
     },
     "Milk": {
         "In many countries, marketing of milk is mainly based on fat content. In the US, whole milk is 3.25% fat, whereas reduced-fat milk is 2% fat, and low-fat milk 1%.",
