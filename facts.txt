@@ -90,7 +90,13 @@
     	"Marmalade is citrus-fruit based jam. They are both very similar, the type of fruit is the only difference.",
         "The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
         "Jam is known as 'jelly' in the United States.",
-        "Jam is made by boiling cropped fruit or vegetable pulb with sugar and water."
+        "Jam is made by boiling cropped fruit or vegetable pulb with sugar and water.",
+	"The making of jam and jelly probably began centuries ago in the Middle Eastern countries, where sugar cane grew naturally.",
+        "Historically in Ireland, two of the most popular jam flavours made in the home were Rhubarb and Ginger and Blackberry and 	Apple.",
+        "Jam is a thick mixture of cut or crushed fruit and sugar (and often pectin) that is cooked until the pieces of fruit form a     	  thick puree.",
+	"Jelly is a clear, bright mixture made from fruit juice, sugar and pectin or acid that forms a gel.",
+        "Jam is an interesting condiment because its neither a solid or a liquid. It can contain chunks of fruit which are solids, but 	if let out of the fridge the juicy part becomes a liquid.",
+	"Jam often moves to fit a container, which is one of the properties of a liquid."
     },
     "Mango":{
     	"One cup of mangos is just 100 calories, which means it is just the perfect sweet treat.",
