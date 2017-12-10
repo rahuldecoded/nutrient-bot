@@ -165,4 +165,8 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+     "egg" : {
+        "yolk colour depends on the diet of the hen."
+        "Eggs age more in one day at room temperature than in one week in the refrigerator."
+    },
 }
