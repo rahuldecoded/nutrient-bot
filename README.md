@@ -17,3 +17,6 @@ Please add your entries in alphabetical order.
 
 # License
 * This project is licensed under the MIT License - see the LICENSE file for details.
+"apple": {
+      "reduces cholesterol"
+      },
