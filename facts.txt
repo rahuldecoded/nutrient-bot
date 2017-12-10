@@ -165,4 +165,8 @@
         "The average age of a French oak tree harvested for use in creating wine barrels is 170 years."
         "10,000 varieties of wine grapes exist worldwide."
     },
+    "Eggs": {
+        "Eggs contain Lutien and zeaxanthing which help maintain good eyesight. These antioxidants help prevent blindness in people over the age of 65 and helps decrease the chance of getting cataracts."
+	"Eggs contain all 9 essential amino acids which our bodies cannot make ( we have to get them from food). Eggs are one of the only foods that contain all nine and are considered a complete protein."
+	"Recent research done by Harvard shows that enjoying an egg a day will not increase your chance of heart disease."
 }
