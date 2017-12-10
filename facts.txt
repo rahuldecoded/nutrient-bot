@@ -36,6 +36,10 @@
         "Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
         " The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
     },
+    "Butter":{
+    		"It's healthier than you think. Butter has none of the artificial trans fats (associated with the "bad" cholesterol) you 		  get in margarine. If it's from grass-fed cows' milk. It also has CLAs, and equal amounts of Omega 3 and 6 fatty 			 acids.",
+		"Butter is a source of Vitamin A, which is great for hair, eyes, and skin, as well as Vitamins E, D, and K."
+		}
     "Carrot": {
         "Eating carrots can improve eye health",
         "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body.",
