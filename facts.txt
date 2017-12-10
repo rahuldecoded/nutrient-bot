@@ -166,10 +166,10 @@
         "10,000 varieties of wine grapes exist worldwide."
     },
     "Soft drinks": {
-    "Sugary drinks, or sugar sweetened beverages, include all non-alcoholic water based beverages with added sugar such as non-diet soft drinks, energy drinks, fruit drinks, sports drinks and cordial. "
-    "Many drinks contain acid that harms your teeth, including regular and diet soft drinks, sports/energy drinks and fruit juices. Acid weakens tooth enamel which can lead to tooth decay. Tooth decay is the most prevalent disease in Australia."
-    "Research has shown that consuming 340ml of sugary drink a day (which equates to less than one can) increases your risk of type 2 diabetes by 22% when compared to drinking one can a month or less"
-},
+    "Sugary drinks, or sugar sweetened beverages, include all non-alcoholic water based beverages with added sugar such as non-diet soft drinks, energy drinks, fruit drinks, sports drinks and cordial. ",
+    "Many drinks contain acid that harms your teeth, including regular and diet soft drinks, sports/energy drinks and fruit juices. Acid weakens tooth enamel which can lead to tooth decay. Tooth decay is the most prevalent disease in Australia.",
+    "Research has shown that consuming 340ml of sugary drink a day (which equates to less than one can) increases your risk of type 2 diabetes by 22% when compared to drinking one can a month or less",
+   },
 }
 
 
