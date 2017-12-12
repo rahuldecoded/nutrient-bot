@@ -175,4 +175,11 @@
         "Eggs contain Lutien and zeaxanthing which help maintain good eyesight. These antioxidants help prevent blindness in people over the age of 65 and helps decrease the chance of getting cataracts.",
 	"Eggs contain all 9 essential amino acids which our bodies cannot make ( we have to get them from food). Eggs are one of the only foods that contain all nine and are considered a complete protein.",
 	"Recent research done by Harvard shows that enjoying an egg a day will not increase your chance of heart disease."
-}
+},
+    "Pomegranate":{
+    	"It is a fruit which contains hundreds of edible seeds called arils.",
+	"They are rich in fiber,vitamins and minerals.They also contain some amount of sugar.",
+	"Extremely powerful antioxidants called Punicalagins are found in the peel and juice of a pomegranate.",
+	"Punicic acid,also known as pomegranate seed oil, is the main fatty acid in the arils.It is a type of conjugated linoleic acid           with potent biological effects."
+     }
+
