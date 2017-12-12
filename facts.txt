@@ -180,6 +180,6 @@
     	"It is a fruit which contains hundreds of edible seeds called arils.",
 	"They are rich in fiber,vitamins and minerals.They also contain some amount of sugar.",
 	"Extremely powerful antioxidants called Punicalagins are found in the peel and juice of a pomegranate.",
-	"Punicic acid, also known as pomegranate seed oil, is the main fatty acid in the arils.It is a type of conjugated linoleic acid          with potent biological effects."
+	"Punicic acid,also known as pomegranate seed oil, is the main fatty acid in the arils.It is a type of conjugated linoleic acid           with potent biological effects."
      }
 
