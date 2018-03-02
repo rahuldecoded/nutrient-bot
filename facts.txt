@@ -71,6 +71,12 @@
         "Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
         "Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
     },
+    "Garlic": {
+        "Garlic is used as a fish and meat preservative, and displays antimicrobial effects at temperatures as high as 120 degree Celsius.",
+	"In Europe, many cultures have used garlic for protection or white magic, perhaps owing to its reputation in folk medicine.",
+	"People who take garlic frequently, have fewer colds.",
+	"Raw garlic is said to be good for preventing cancer and heart diseases."
+    },
     "Grapes": {
         "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
         "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
@@ -158,6 +164,12 @@
         "Strawberries are believed to help reduce the risk of heart disease and certain cancers.",
         "Strawberries are the only fruit that carry their seeds on the outside",
         "Strawberries are perennial, meaning once they are planted they grow back every year"
+     },
+     "Tofu": {
+        "Tofu has a low calorie count, relatively large amounts of protein and high in iron.",
+        "Tofu was first prepared in China, and is very popular in East Asian and Southeast Asian cuisines.",
+	"Tofu is cultivated by coagulating soy milk and then pressing the resulting curds into soft white blocks.",
+	"In the middle of the 20th century, popularity of tofu began to spread across Europe due to increased cultural contact between the West and East Asia and growing interest in vegetarianism."
      },
      "White Bread": {
         "White bread accounts for 76% of the bread sold in the UK.",
