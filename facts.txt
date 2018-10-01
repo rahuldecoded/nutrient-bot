@@ -6,8 +6,12 @@
     },
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
-	"Apple trees take four to five years to produce their first fruit."
+	"Apple trees take four to five years to produce their first fruit.",
+	"Apples are made of 25% air, which is why they float."
     },
+	"Avocado":{
+		"Avocado has highest protein content of all fruit."
+	},
     "Banana": {
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
 	"Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
