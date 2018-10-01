@@ -91,6 +91,7 @@
     },
     "Green Tea": {
         "A cup of green tea typically contains 25-30mg caffeine.",
+	"Green tea is the healthiest drink in the world",
         "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
         "Green tea contains the amino acid, Theanine, which is known to help combat depression.",
         "Green tea boosts immunity, Research shows that people who regularly drink green tea do not fall victim to common bacterial and viral infections as easily as those who do not add green tea to their diet.",
