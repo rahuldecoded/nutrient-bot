@@ -1,8 +1,12 @@
 ﻿{
     "Apple": {
         "Apples contain no fat, sodium or cholesterol and are a good source of fiber.",
-	      "Apple trees take four to five years to produce their first fruit."
+	"Apple trees take four to five years to produce their first fruit.",
+	"Apples are made of 25% air, which is why they float."
     },
+	"Avocado":{
+		"Avocado has highest protein content of all fruit."
+	},
     "Banana": {
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
 	      "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
@@ -71,6 +75,12 @@
         "Coriander provides various health benefits aside from being used as a spice. Coriander has anti-inflammatory and anti-septic properties which help to promote the health."
         "Coriander possesses antiarthritic and antirheumatic properties which lessen the swelling caused by anemia or kidney malfunction."
     },
+	"Cranberry":{
+		"Cranberries bounce like a rubber ball when ripe"
+	},
+	"Cucumber":{
+		"Cucumbers are 96% water"
+	},
     "Grapes": {
         "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
         "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
@@ -86,6 +96,9 @@
         "Green tea boosts immunity, Research shows that people who regularly drink green tea do not fall victim to common bacterial and viral infections as easily as those who do not add green tea to their diet.",
         "Green tea prevents cancer, Apart from causing premature aging, free radicals are also responsible for causing certain types of cancer. The Catechins present in green tea neutralize these free radicals, prevent formation of carcinogens like nitrosamines and reduce the risk of cancer for people who regularly consume green tea. "
     },
+	"Ginger": {
+		"Ginger can reduce exercise-induced muscle pain by 25%"
+	},
     "Jam": {
     	"Marmalade is citrus-fruit based jam. They are both very similar, the type of fruit is the only difference.",
         "The quantity of sugar in jam is often the same as the quantity of fruit in the jam.",
@@ -114,7 +127,8 @@
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
         "Peanuts are an exceptionally good source of protein.",
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
-        "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
+        "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer.",
+		"Peanuts are legumes, not nuts"
     },
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
