@@ -9,7 +9,8 @@
 	},
     "Banana": {
         "Bananas are low in calories and have no fat, no sodium, and no cholesterol. They contain vitamin C, potassium, fiber, and vitamin B6.",
-	      "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers."
+	      "Research shows that eating bananas may lower the risk of heart attacks and strokes, as well as decrease the risk of getting some cancers.",
+		  "Eating bananas can help fight depression."
     },
     "Beef": { 
     	  "Beef contains all of the essential amino acids and is referred to as a "complete" protein source.",
@@ -40,6 +41,9 @@
         "Brown bread has more fiber and nutrients than white bread, since it is not processed as much as the latter.",
         " The brown bread provides fibre, protein, vitamin E and B, magnesium, manganese, iron, phosphorous, potassium and zinc."
     },
+	"Cabbage":{
+		"Cabbage is 91% water"
+	},
     "Carrot": {
         "Eating carrots can improve eye health",
         "The traditional orange colored carrots get their bright color from beta-carotene, an antioxidant that is converted to vitamin A in the body.",
@@ -121,7 +125,7 @@
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
         "Peanuts are an exceptionally good source of protein.",
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
-        "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer.",
+        "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cCncer.",
 		"Peanuts are legumes, not nuts"
     },
     "Peanut Butter": {
