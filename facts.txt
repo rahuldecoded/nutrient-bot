@@ -128,7 +128,9 @@
     },
     "Peanut": {
         "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
+	"It takes fewer than 5 gallons of water to produce 1 ounce of peanuts. (Bonus: 1 ounce of almonds takes 80 gallons)",
         "Peanuts are an exceptionally good source of protein.",
+	"Goober—a nickname for peanuts—comes from “nguba”, the Congo language name for peanut",
         "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
         "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
     },
