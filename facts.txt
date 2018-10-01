@@ -81,6 +81,7 @@
     },
     "Green Tea": {
         "A cup of green tea typically contains 25-30mg caffeine.",
+	"Green tea is the healthiest drink in the world",
         "Green tea is made by drying or gently steaming the leaves of the Camellia Sinensis plant.",
         "Green tea contains the amino acid, Theanine, which is known to help combat depression.",
         "Green tea boosts immunity, Research shows that people who regularly drink green tea do not fall victim to common bacterial and viral infections as easily as those who do not add green tea to their diet.",
@@ -144,6 +145,23 @@
         "Red wine is probably the best known source of resveratrol due to the fermentation process that turns grape juice to alcohol.",
         "People who drink a glass of red wine a day are less likely to develop dementia, especially Alzheimer's."
     },
+    "Pineapple": {
+    "Pineapple fruit contains a proteolytic enzyme bromelain that digests food by breaking down protein. Bromelain also has anti-inflammatory, anti-clotting and anti-cancer properties.",
+    "Fresh pineapple is low in calories. Nonetheless, it is a storehouse for several unique health promoting compounds, minerals, and vitamins that are essential for optimum health."
+    },
+    "Peanut": {
+        "Peanuts are abundant in the vitamins niacin, folate, Vitamin B6 and Vitamin E and rich in minerals like magnesium, phosphorous, potassium, zinc, iron, copper, manganese and selenium.",
+	"It takes fewer than 5 gallons of water to produce 1 ounce of peanuts. (Bonus: 1 ounce of almonds takes 80 gallons)",
+        "Peanuts are an exceptionally good source of protein.",
+	"Goober—a nickname for peanuts—comes from “nguba”, the Congo language name for peanut",
+        "Peanuts are low in carbs. This makes them a good dietary choice for people with diabetes.",
+        "Studies have found eating peanuts five times a week decreased heart disease and reduced the risk of diabetes, gallbladder disease and colorectal cancer."
+    },
+    "Grapes": {
+        "Grapes contain powerful antioxidants known as polyphenols, which may slow or prevent many types of cancer.",
+        "The hydrating power of grapes is also high, which increases the moisture present in the lungs and reduces asthmatic events.",
+        "Grapes are a wonderful source of micro-nutrients like copper, iron, and manganese, all of which are important in the formation and strength of the bones.",
+        "Grapes increase the nitric oxide levels in the blood, which prevents blood clots. Therefore, grapes are an effective way to reduce the chances of heart attacks."
     "Skyr" : {
         "Skyr is high in protein and low in fat",
         "Skyr has been a part of Icelandic cuisine for thousands of years"
