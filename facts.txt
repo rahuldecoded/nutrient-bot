@@ -176,6 +176,11 @@
         "Pitaya is the fruit of several different cactus species indigenous to the Americas.",
         "Pitaya is commonly known as 'Dragon Fruit' in English, reflecting its vernacular Asian names (Pitaya and Pitahhaya)"
     },
+    "Grenadia": {
+        "Grenadia is known as 'Sugar Fruit' in Papua New Guinea.",
+        "Grenadia likes climates ranging from 15 to 18 degrees celcius.",
+        "Grenadia is very aromatic and contains vitamins A, C and K, phosphorous, iron and calcium."
+    },
     "Eggs": {
         "Eggs contain Lutien and zeaxanthing which help maintain good eyesight. These antioxidants help prevent blindness in people over the age of 65 and helps decrease the chance of getting cataracts.",
 	"Eggs contain all 9 essential amino acids which our bodies cannot make ( we have to get them from food). Eggs are one of the only foods that contain all nine and are considered a complete protein.",
