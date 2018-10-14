@@ -119,6 +119,8 @@
     "Peanut Butter": {
         "It takes about 540 peanuts to make a 12-ounce jar of peanut butter.",
         "According to a study from the University of Florida, peanut butter contains antioxidants and other oleic acid that is helpful in preventing type 2 diabetes and aids in weight loss.",
+        "In the US, peanut butter must contain 90% peanuts, otherwise it must be called \"peanut spread\"",
+        "In Netherlands, peanut butter is called peanut cheese as the word butter is reserved for actual butter."
         "Suppresses hunger for weight loss",
         "Peanut butter has protein as well as potassium — which lowers the risk of high blood pressure, stroke and heart disease. "
     },
